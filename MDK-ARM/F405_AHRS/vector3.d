@@ -1,0 +1,9 @@
+f405_ahrs\vector3.o: ..\Core\Src\Math\vector3.c
+f405_ahrs\vector3.o: ..\Core\Src\Math\vector3.h
+f405_ahrs\vector3.o: ..\Core\Src\Math\ftype.h
+f405_ahrs\vector3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f405_ahrs\vector3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+f405_ahrs\vector3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+f405_ahrs\vector3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f405_ahrs\vector3.o: ..\Core\Src\Math\rotations.h
+f405_ahrs\vector3.o: ..\Core\Src\Math\vector2.h

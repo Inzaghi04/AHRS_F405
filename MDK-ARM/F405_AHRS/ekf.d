@@ -1,0 +1,11 @@
+f405_ahrs\ekf.o: ..\Core\Src\EKF\EKF.c
+f405_ahrs\ekf.o: ..\Core\Src\EKF\EKF.h
+f405_ahrs\ekf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f405_ahrs\ekf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+f405_ahrs\ekf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f405_ahrs\ekf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+f405_ahrs\ekf.o: ../Core/Src/Math/ftype.h
+f405_ahrs\ekf.o: ../Core/Src/Math/vector3.h
+f405_ahrs\ekf.o: ../Core/Src/Math/rotations.h
+f405_ahrs\ekf.o: ../Core/Src/Math/vector2.h
+f405_ahrs\ekf.o: ../Core/Src/Math/matrix3.h
